@@ -1,0 +1,10 @@
+pages\CustomerLoginPage.class
+pages\DepositPage.class
+pages\OpenAccountPage.class
+pages\LoginPage.class
+pages\CustomerPage.class
+pages\TransactionsPage.class
+pages\WithdrawalPage.class
+pages\AddCustomerPage.class
+pages\AccountPage.class
+base\Base.class
